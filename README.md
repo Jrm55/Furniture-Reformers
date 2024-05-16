@@ -26,6 +26,7 @@ Our app lets users:
 We developed an app to address the problems of inappropriate furniture disposal and the restricted availability of reasonably priced furniture alternatives in our neighborhood. It makes use of generative AI to produce an approachable website that enables people to choose their furniture with knowledge.
 
 ## See Our Demo Video
-[!Watch the Video Here!] <img width="1398" alt="Screenshot 2024-05-16 at 7 00 05 AM" src="https://github.com/amjadelshafi/Furniture-Reformers/assets/121737700/232fd389-ab0e-43a3-8b69-6a8f984ebd28">(https://www.youtube.com/watch?v=_kuei1AvIVA)
+[!Watch the Video Here!] ![furniture_reformer](https://github.com/amjadelshafi/Furniture-Reformers/assets/121737700/935411d3-dbd9-45df-bcc5-e8ecf18b34de)
+(https://www.youtube.com/watch?v=_kuei1AvIVA)
  
 
