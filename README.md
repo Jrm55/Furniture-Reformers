@@ -17,11 +17,11 @@ Our app lets users:
 - Choose the type of furniture they want to dispose, donate, or sell depending on the size and location.
 - Determine their furniture condition and material needed in order to refurnish it.
  
-![Tortoise and the Hare as a Renaissance Painting](/thumbnail.png)
+![Furniture Dumping]()
 
 ## Our Solution
 
-![Bedtime Bytes Demo Screenshot](/)
+![Furniture Reformers Demo Screenshot]()
 
 We created an app that tackles the issue of improper furniture disposal and limited access to affordable furniture options within our community. It leverages generative AI to create a user-friendly website that empowers individuals to make informed decisions regarding their furniture.
 
