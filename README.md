@@ -9,7 +9,6 @@ We use generative AI to help users obtain, dispose, and refurnish furniture base
 
 ## Why Furntiure Reformers? 
 
- 
 "Furniture Reformers" was inspired by a combination of things. We are personally concerned about how incorrect furniture disposal affects the environment. Our idea for a solution was to keep the furniture out of the trash and encourage more environmentally friendly ways to use it. Furthermore, we saw a glaring lack of resources in our town. Individuals have trouble finding reasonably priced furniture choices or had no help with responsible disposal. "Furniture Reformers" arose as a means of bridging this divide and providing users the necessary resources to enable them. Ultimately, the initiative sparked our spirit of entrepreneurship. enabling us to investigate how generative AI may be used to solve practical issues. By integrating generative AI into the website, we created a platform that could not only connect users with information, but also utilize AI's capabilities to provide personalized
 recommendations and solutions.
 
