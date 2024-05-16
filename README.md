@@ -27,8 +27,7 @@ Our app lets users:
 
 ![Bedtime Bytes Demo Screenshot](/screenshot.png)
 
-We created an app that tackles the issue of improper furniture disposal and limited access to affordable furniture options within our community. It leverages generative AI to create a user-
-friendly website that empowers individuals to make informed decisions regarding their furniture.
+We created an app that tackles the issue of improper furniture disposal and limited access to affordable furniture options within our community. It leverages generative AI to create a user-friendly website that empowers individuals to make informed decisions regarding their furniture.
 
 ## See Our Demo Video
 [![Watch the Video Here!](https://img.youtube.com/vi/Ej1InUZNjcQ/0.jpg)](https://www.youtube.com/watch?v=Ej1InUZNjcQ)
