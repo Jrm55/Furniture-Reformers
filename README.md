@@ -1,7 +1,7 @@
 # Furniture Reformers
 
 
-An App that helps your furniture needs and wants.
+An App that helps with your furniture needs and wants.
 
 ## Furniture Reformers: What is it?
 
