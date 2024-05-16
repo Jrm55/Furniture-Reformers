@@ -5,17 +5,17 @@ An App that helps with your furniture needs and wants.
 
 ## Furniture Reformers: What is it?
 
-We use generative AI to help users obtain, dispose, and refurnish furniture based on their needs.
+We use generative AI to help users obtain, dispose of, and refurnish furniture based on their needs.
 
-## Why Furntiure Reformers? 
+## Why Furniture Reformers? 
 
-"Furniture Reformers" was inspired by a combination of things. We are personally concerned about how incorrect furniture disposal affects the environment. Our idea for a solution was to keep the furniture out of the trash and encourage more environmentally friendly ways to use it. Furthermore, we saw a glaring lack of resources in our town. Individuals have trouble finding reasonably priced furniture choices or had no help with responsible disposal. "Furniture Reformers" arose as a means of bridging this divide and providing users the necessary resources to enable them. Ultimately, the initiative sparked our spirit of entrepreneurship. enabling us to investigate how generative AI may be used to solve practical issues. By integrating generative AI into the website, we created a platform that could not only connect users with information, but also utilize AI's capabilities to provide personalized
+"Furniture Reformers" was inspired by a combination of things. We are personally concerned about how incorrect furniture disposal affects the environment. Our idea for a solution was to keep the furniture out of the trash and encourage more environmentally friendly ways to use it. Furthermore, we saw a glaring lack of resources in our town. Individuals have trouble finding reasonably priced furniture choices or have no help with responsible disposal. "Furniture Reformers" arose as a means of bridging this divide and providing users with the necessary resources to enable them. Ultimately, the initiative sparked our spirit of entrepreneurship. enabling us to investigate how generative AI may be used to solve practical issues. By integrating generative AI into the website, we created a platform that could not only connect users with information but also utilize AI's capabilities to provide personalized
 recommendations and solutions.
 
 Our app lets users:
 - Pick the type of furniture they would like to either buy or get for free based on location.
-- Choose the type of furniture they want to dispose, donate, or sell depending on the size and location.
-- Determine their furniture condition and material needed in order to refurnish it.
+- Choose the type of furniture they want to dispose of, donate, or sell depending on the size and location.
+- Determine their furniture condition and the material needed to refurbish it.
  
 ![Furniture Dumping]()
 
@@ -23,7 +23,7 @@ Our app lets users:
 
 ![Furniture Reformers Demo Screenshot]()
 
-We created an app that tackles the issue of improper furniture disposal and limited access to affordable furniture options within our community. It leverages generative AI to create a user-friendly website that empowers individuals to make informed decisions regarding their furniture.
+We developed an app to address the problems of inappropriate furniture disposal and the restricted availability of reasonably priced furniture alternatives in our neighborhood. It makes use of generative AI to produce an approachable website that enables people to choose their furniture with knowledge.
 
 ## See Our Demo Video
 [![Watch the Video Here!](https://drive.google.com/file/d/1BiVBFlzwB0kOph3e-5gnT_ceU3WG9_6s/view?usp=sharing)
