@@ -1,12 +1,11 @@
 ![furniture_reformer](https://github.com/amjadelshafi/Furniture-Reformers/assets/121737700/50e6e313-21b0-4e02-8a96-a9d6f6405c3f)
 # Furniture Reformers
 
-
 An App that helps with your furniture needs and wants.
 
 ## Furniture Reformers: What is it?
 
-We use generative AI to help users obtain, dispose of, and refurnish furniture based on their needs.
+We use generative AI to help users obtain, dispose of, and refurnish furniture based on their needs. The term "Furniture Reformers" was chosen since the purpose of the name is to be interpreted. Furniture reforming highlights the project's goal of increasing the useful life of current furniture. It implies that the website offers tools to help customers maintain, repair, and restore their furniture—basically "reforming" it to give it a new lease of life.
 
 ## Why Furniture Reformers? 
 
@@ -18,9 +17,7 @@ Our app lets users:
 - Choose the type of furniture they want to dispose of, donate, or sell depending on the size and location.
 - Determine their furniture condition and the material needed to refurbish it.
 
-
 ## Our Solution
-
 
 We developed an app to address the problems of inappropriate furniture disposal and the restricted availability of reasonably priced furniture alternatives in our neighborhood. It makes use of generative AI to produce an approachable website that enables people to choose their furniture with knowledge.
 
