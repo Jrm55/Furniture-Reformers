@@ -26,4 +26,4 @@ Our app lets users:
 We created an app that tackles the issue of improper furniture disposal and limited access to affordable furniture options within our community. It leverages generative AI to create a user-friendly website that empowers individuals to make informed decisions regarding their furniture.
 
 ## See Our Demo Video
-[![Watch the Video Here!](/https://drive.google.com/file/d/1BiVBFlzwB0kOph3e-5gnT_ceU3WG9_6s/view?usp=sharing)
+[![Watch the Video Here!](https://drive.google.com/file/d/1BiVBFlzwB0kOph3e-5gnT_ceU3WG9_6s/view?usp=sharing)
