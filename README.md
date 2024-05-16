@@ -28,6 +28,7 @@ Our prototype aims to:
 - Suggest tips and guides on used furniture repairs with the use of computer vision.
 
 Our aim:
+
 "Furniture Reformers" wants to be your one-stop store for anything about furniture. The initiative helps the community adopt a more sustainable attitude to furniture consumption by supporting appropriate disposal, encouraging furniture reuse, and extending furniture lifespans. Furthermore, it gives consumers the tools and information they need to make wise furniture selections, which empowers them.
 
 ## See Our Demo Video
